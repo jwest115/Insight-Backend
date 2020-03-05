@@ -25,6 +25,7 @@ SECRET_KEY = 'b@d6*3gq*a3#@p08v+#c962z!)8z42*$($umo+ev5faz62^_pn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# will need to add your IPv4 address to list of allowed hosts if you want to make API calls from android device
 ALLOWED_HOSTS = []
 
 

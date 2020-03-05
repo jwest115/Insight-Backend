@@ -10,5 +10,5 @@ urlpatterns = [
 
 router = routers.DefaultRouter()
 router.register('api/accounts/users', UsersViewSet, 'user')
-router.register('api/accounts/users/<int:pin_id>/', UsersViewSet, 'user')
+router.register('api/accounts/users/<int:user_id>/', UsersViewSet, 'user')
 urlpatterns += router.urls
