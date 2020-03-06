@@ -4,6 +4,8 @@
     <list default="true" id="1f03e639-28f7-416e-8d90-1a62df124e52" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InsightBackend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/InsightBackend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
@@ -28,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/globaltraqs-mobile" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/GlobaltraQs/GlobalTraqs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -86,8 +88,19 @@
       <workItem from="1582306424167" duration="3061000" />
       <workItem from="1582910416015" duration="2111000" />
       <workItem from="1582914031652" duration="100000" />
-      <workItem from="1583379097672" duration="3695000" />
+      <workItem from="1583379097672" duration="4120000" />
+      <workItem from="1583518600099" duration="668000" />
+      <workItem from="1583525292163" duration="3058000" />
+      <workItem from="1583530107422" duration="2058000" />
     </task>
+    <task id="LOCAL-00001" summary="edited url path; note allowed_hosts within settings.py">
+      <created>1583385972910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583385972910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edited url path; note allowed_hosts within settings.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited url path; note allowed_hosts within settings.py" />
   </component>
 </project>

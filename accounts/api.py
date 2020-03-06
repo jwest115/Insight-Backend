@@ -27,6 +27,7 @@ class UsersViewSet(viewsets.ModelViewSet):
 # Register API
 class RegisterAPI(generics.GenericAPIView):
     serializer_class = RegisterSerializer
+    queryset = User.objects.all()
 
     def post(self, request, *args, **kwargs):
         serializer = self.get_serializer(data=request.data)
